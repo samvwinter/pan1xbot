@@ -1,0 +1,11 @@
+{
+    "name": "pantron",
+    "version": "1.0.0",
+    "description": "Prototype bot for streamer PAN1X",
+    "main": "index.js",
+    "author": "TheChosenNun",
+    "dependencies": {
+        "discord.js": "^11.3.2",
+        "discord.js-commando": "^0.10.0"
+    }
+}
